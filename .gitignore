@@ -1,0 +1,23 @@
+# Local product photos, reference videos and generated outputs.
+/referencias/
+/dist/
+*.heic
+*.HEIC
+*.heif
+*.HEIF
+*.mp4
+*.MP4
+*.mov
+*.MOV
+*.mkv
+*.webm
+*.avi
+
+# Machine-specific configuration and temporary files.
+.env
+.env.*
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+desktop.ini

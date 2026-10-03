@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prompts de video Flow para relojes"
+  short_description: "Analiza referencias y crea prompts precisos para Flow"
+  default_prompt: "Usa $flow-watch-video-prompter para analizar esta carpeta de referencias y preparar el prompt final para Google Flow."
